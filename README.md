@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Just write `alexvishalrps` on your command line and go from there!
 
 ## Development
 
