@@ -5,6 +5,6 @@ require "alexvishalrps/game"
 
 module AlexVishalRPS
   def self.play
-    puts "Goodbye!"
+    Game.new.play
   end
 end
