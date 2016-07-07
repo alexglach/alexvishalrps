@@ -1,5 +1,8 @@
 require "alexvishalrps/version"
+require "alexvishalrps/player"
 
-module Alexvishalrps
-  # Your code goes here...
+module AlexVishalRPS
+  def self.play
+    puts "Hello!"
+  end
 end

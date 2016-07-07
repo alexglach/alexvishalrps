@@ -5,7 +5,7 @@ require 'alexvishalrps/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "alexvishalrps"
-  spec.version       = Alexvishalrps::VERSION
+  spec.version       = AlexVishalRPS::VERSION
   spec.authors       = ["Alex Lach"]
   spec.email         = ["alexglach@gmail.com"]
 
