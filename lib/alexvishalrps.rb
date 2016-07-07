@@ -3,6 +3,6 @@ require "alexvishalrps/player"
 
 module AlexVishalRPS
   def self.play
-    puts "Hello!"
+    puts "Goodbye!"
   end
 end
